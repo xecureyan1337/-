@@ -15,3 +15,7 @@
 2. Managed by AUMF
 3. Diversification  -> Investment strategy to allocate funds to some instruments to minimize the risk. For example, If we buy mutual funds with total $224, we'll have some allocation funds such as BCA, BRI stock, obligation, deposito, and so on.
 4. Purchased Retail -> Buy mutual funds at a cheaper price than stock,deposito, obligation.
+5. Liquid Asset     -> Can be traded any time and can be withdrawn directly than other instruments such as obligation that can't be withdrawn immediately and need to be waited till its due date
+
+## Loss (Tbc)
+
